@@ -175,8 +175,8 @@ button:focus {
   height: 560px;
   width: 360px;
   background: #fff;
-  background: url("https://images.pexels.com/photos/172292/pexels-photo-172292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=800")
-    top left no-repeat;
+/*   background: url("https://images.pexels.com/photos/172292/pexels-photo-172292.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=1000&w=800")
+    top left no-repeat; */
   background-size: cover;
 }
 
@@ -185,7 +185,7 @@ button:focus {
   background: radial-gradient(
     circle,
     rgba(63, 177, 251, 1) 0%,
-    rgba(70, 252, 189, 1) 100%
+    rgba(5, 5, 5, 1) 100%
   );
   opacity: 0.85;
   filter: alpha(opacity=85);
@@ -205,8 +205,8 @@ button:focus {
   height: 360px;
   z-index: 1;
   opacity: 0.5;
-  background: url("https://images.pexels.com/photos/1108115/pexels-photo-1108115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
-    left no-repeat;
+/*   background: url("https://images.pexels.com/photos/1108115/pexels-photo-1108115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
+    left no-repeat; */
   background-size: cover;
 }
 
